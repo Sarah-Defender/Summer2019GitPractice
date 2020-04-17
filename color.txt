@@ -10,7 +10,10 @@ green
                                                     intelliJ conflict resolver.etc
                                                     you can manually edit file and decide what code has to stay.
                                                     And then simply commit your changes again
+                                                    or you click on project ---Git---Resolve Conflict--choose right or left
+                                                    then you can go from there
 
 black
 navy blue
 pink
+white
