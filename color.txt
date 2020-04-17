@@ -12,3 +12,4 @@ green
                                                     And then simply commit your changes again
 
 black
+pink

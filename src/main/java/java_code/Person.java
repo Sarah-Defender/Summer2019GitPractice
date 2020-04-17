@@ -5,10 +5,6 @@ public class Person {
           private String firstName;
           private String address;
 
-          public class Person {
-              private int age;
-          }
-
-
+         public Person(int age) { this.age=age; }
 
 }
