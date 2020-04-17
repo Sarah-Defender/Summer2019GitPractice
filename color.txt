@@ -16,3 +16,4 @@ navy blue
 pink
 purple
 white
+cyan
