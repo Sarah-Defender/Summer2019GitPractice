@@ -19,3 +19,4 @@ white
 cyan
 azure
 French rose
+Cyber Yellow
