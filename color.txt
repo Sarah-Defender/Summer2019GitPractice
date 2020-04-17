@@ -5,6 +5,10 @@ green
 //how do you solve git conflict?
 //3 Solution: 1-Stash changes: it's when you save your changes on a side. Then you can apply your changes again after pull
         //    2-Discard changes: it's pretty much lose your updates.
-        //    3-Resolve merge conflict right away.
+        //    3-Resolve merge conflict right away---git status, git add file.txt, git commit -m "", git pull,
+                                                    and then open conflict file, either manually change them or use
+                                                    intelliJ conflict resolver.etc
+                                                    you can manually edit file and decide what code has to stay.
+                                                    And then simply commit your changes again
 
-
+black
